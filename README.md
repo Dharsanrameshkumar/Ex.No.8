@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :10/11/2025
+# Reg. No. 212223100003
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -55,5 +55,6 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/40843dcc-6a71-455b-aa00-3b3d2a111dc1" />
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f096229a-43f9-4b91-ae55-59407c8dac4d" />
+
+<img width="1024" height="1024" alt="ChatGPT Image Nov 10, 2025, 09_28_02 AM" src="https://github.com/user-attachments/assets/17cbc6eb-fb60-4e0f-8900-404fd7317e1f" />
 
