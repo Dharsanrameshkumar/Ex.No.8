@@ -53,3 +53,7 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/40843dcc-6a71-455b-aa00-3b3d2a111dc1" />
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f096229a-43f9-4b91-ae55-59407c8dac4d" />
+
